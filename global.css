@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-circular-std: "Circular Std";
+  --font-noto-sans-cjk-kr: "Noto Sans CJK KR";
+
+  /* font sizes */
+  --font-size-mid: 17px;
+  --font-size-sm: 14px;
+  --font-size-mini: 15px;
+  --font-size-base: 16px;
+  --font-size-xs: 12px;
+  --font-size-smi-5: 12.5px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-darkgray: #b3b3b3;
+  --color-gray-100: #282828;
+  --color-gray-200: #181818;
+
+  /* Gaps */
+  --gap-3xl: 22px;
+  --gap-10xs: 3px;
+
+  /* Paddings */
+  --padding-base: 16px;
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+  --br-9xs: 4px;
+}
